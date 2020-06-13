@@ -18,3 +18,8 @@ header {
     margin-top: 20px;
     margin-bottom: 0px;
 }
+ul {
+    list-style-image: url('https://www.gettyimages.com/detail/photo/italian-gnocchi-royalty-free-image/170000397')
+        padding:2px;
+        masrgin:2px;
+}
