@@ -19,7 +19,6 @@ header {
     margin-bottom: 0px;
 }
 li {
-    list-style-image: url('https://www.gettyimages.com/detail/photo/italian-gnocchi-royalty-free-image/170000397')
-        padding:2px;
-        masrgin:2px;
+    list-style-image: url('vegetable.png');
+       /*Icons made by https://www.flaticon.com/free-icon/vegetable_3057195?term=food&page=2&position=72" title="iconixar">iconixar</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com */
 }
