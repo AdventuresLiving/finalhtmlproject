@@ -1,0 +1,20 @@
+﻿h1 {
+    color: #D2691E;
+    text-align:center;
+    font-family:"Comic Sans MS", Arial, "Courier New";
+    font-size:200%;
+}
+header {
+    background-color: rgb(143,188,143);
+    box-sizing: border-box;
+    width: 100%;
+    display: inline-block;
+    height: 200px;
+    margin: 5px;
+    border: 10px solid #000000;
+    padding: 10px;
+    padding-bottom: 2px;
+    margin: /*add here*/;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}

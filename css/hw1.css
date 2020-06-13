@@ -1,0 +1,26 @@
+aside {
+	display:none;
+}
+
+header {
+	background-color:#1192A1;
+}
+
+section {
+	background-color:#FFE4B5;
+}
+
+nav a{
+	color:rgb(255,255,255);
+	background-color: #008000;
+}
+h1 {
+	
+	text-transform:capitalize;
+	text-align:center;
+	color:rgb(200, 225, 134);
+}
+h2 {
+	color:#00FFFF;
+	text-transform:capitalize;
+}
